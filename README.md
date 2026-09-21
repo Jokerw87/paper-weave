@@ -1,5 +1,9 @@
 # 纸上编织实验室 / Paper Weave
 
+![纸上编织载入六乘六海蓝交叠单元后的三乘三重复预览](preview.png)
+
+实际桌面截图，展示原创几何练习。下载完整仓库并解压，打开 `index.html`，载入随附 `example-project.json` 可复现此单元并继续修改。保持完整文件夹，不要只下载HTML或在ZIP预览里运行。无需账号或依赖安装；不是在线托管服务，也不是织机生产文件。截图只展示当前视口，完整图案可在工具中查看和导出。
+
 An original, local visual repeat-pattern experiment. Open `index.html` with all files in one folder. No server, external fonts, account, upload or persistent storage.
 
 ## 三步使用
